@@ -1,0 +1,91 @@
+html {
+    background-color: #f5f5f5;
+}
+
+body {
+    margin: 0;
+    width: 40%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 4rem;
+    background-color: white;
+    padding: 15px;
+    box-shadow: 2px 2px 2px 0px rgba(0,0,0,0.25);
+}
+
+img {
+    width: 160px;
+    margin-top: 18px;
+    margin-left: 40px;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+}
+
+.line {
+    height: 4px;
+    width: 240px;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    background: linear-gradient(to right, #01bfa5 0%, #01bfa5 70%, #e7ebed 70%, #e7ebed 100%);
+}
+
+h3 {
+    font-size: 11px;
+    opacity: 0.7;
+}
+
+h2 {
+    font-size: 13px;
+    font-weight: 500;
+}
+
+.artist {
+    font-size: 10px;
+    opacity: 0.7;
+}
+
+.time {
+    display: flex;
+    justify-content: space-between;
+    padding-top: 4px;
+    font-size: 11px;
+    opacity: 0.7;
+}
+
+i {
+    color: #6f8088;
+    opacity: 0.8;
+}
+
+.control {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.fa-circle-play {
+    font-size: 40px;
+    margin-top: -8px;
+}
+
+.song {
+    font-size: 12px;
+    margin-top: 9px;
+    opacity: 0.8;
+}
+
+span {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: -11px;
+}
+
+#choose {
+    color: #01bfa5;
+    font-weight: 700;
+    
+}
