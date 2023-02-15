@@ -14,9 +14,9 @@ body {
 }
 
 img {
-    width: 160px;
-    margin-top: 18px;
-    margin-left: 40px;
+    width: 70%;
+    margin-top: 7%;
+    margin-left: 15%;
 }
 
 .top {
@@ -26,9 +26,9 @@ img {
 
 .line {
     height: 4px;
-    width: 240px;
+    width: 100%;
     margin-bottom: 2rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     background: linear-gradient(to right, #01bfa5 0%, #01bfa5 70%, #e7ebed 70%, #e7ebed 100%);
 }
 
